@@ -9,7 +9,4 @@ Author: https://github.com/noblexeyi
 
 Generate an API key in Google Maps.
 
-## Example
-
-Demo: https://splitpay-nodejs.herokuapp.com/split-payments/compute
 
