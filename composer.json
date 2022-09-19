@@ -1,0 +1,19 @@
+{
+    "name": "noblexeyi/getlocation-JS",
+    "description": "GetLocation - Get your users location",
+    "keywords": [
+        "noblexeyi",
+        "getlocation-JS",
+        "getlocation"
+    ],
+    "homepage": "https://github.com/noblexeyi/getlocation-JS",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Akintola Abraham",
+            "email": "abramseyakid@gmail.com",
+            "homepage": "https://twitter.com/seyiiiAbraham",
+            "role": "Developer"
+        }
+    ]
+}

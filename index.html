@@ -6,17 +6,22 @@
 </head>
 
 <body>
-  <div id="navbar"><span>Get Location</span></div>
+  <div id="navbar"><span>Get your users Location</span></div>
 
   <br>
 
   <div id="wrapper">
     <button id="location-button">Click Here to Get Your Location</button>
     <hr>
+    <p>Print Latitude Longitude</p>
     <div id="printLatLon"></div>
+
     <hr>
+    <p>Print Address</p>
     <div id="printAddress"></div>
+
     <hr>
+    <p>Print Image</p>
     <div id="mapImage"></div>
   </div>
 
@@ -24,6 +29,7 @@
     $('#location-button').click(function () {
 
       // Google Map API key goes here
+      // Change this value to your own Google Maps API key
       var apikey = "AIzaSyCDQRxySPZWHXDe2GkFPOaqzX_rFQ12JOE";
 
       if (navigator.geolocation) {
