@@ -8,5 +8,3 @@ Author: https://github.com/noblexeyi
 ## Installation:
 
 Generate an API key in Google Maps.
-
-
